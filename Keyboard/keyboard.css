@@ -49,7 +49,7 @@ button{
     margin: 0 4px;
     border: none;
     background-color: transparent;
-    color:white;
+    color:pink;
     box-shadow: -2px -2px 4px rgb(63, 63, 63) , 2px 2px 4px black;
     border-radius: 5px;
     cursor: pointer;
